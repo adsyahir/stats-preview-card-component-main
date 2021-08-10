@@ -1,12 +1,11 @@
 
-
 function App() {
   return (
     <div className="App">
      <div className="container">
        <div className="box-1 padding bg-color-1 order-2">
          <h1>Get <span> insights </span> that help your business grow. </h1>
-         <p class="p">Discover the benefits of data analytics and mnake better decisions
+         <p class="p">Discover the benefits of data analytics and make better decisions
          regarding revenue, customer experience, and overall efficiency.</p>
         <div class="flex justify-content">
         <div class="col">

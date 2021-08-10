@@ -17,9 +17,7 @@ ReactDOM.render(
     
     <Footer />
   </React.StrictMode>,
-  document.getElementById('footer')
-  
-  
+  document.getElementById('footer')  
 );
 
 
